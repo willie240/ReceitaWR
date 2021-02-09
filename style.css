@@ -1,0 +1,56 @@
+*{
+    width: 883px;
+}
+
+.titulo{
+    height: black;
+    font-size: 89px;
+    line-height: 80px;
+    color: #ffb300;
+    margin-bottom: .30em;
+}
+.autor{
+    color: black;
+    font-size: 21px;
+    height: bold;
+    text-align: right;
+}
+.primerarticulo{
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 1.61;
+    color: black;
+}
+p:empty{
+    height: 5px;
+    width: 70%;
+    background-color: #99999999;
+    margin-top: 34px;
+    margin-bottom: 34px;
+}
+ul{
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 1.61;
+    color: black;
+}
+ol{
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 1.61;
+    color: black;
+}
+.img{
+    width: 883px;
+    height: 374px;
+    border-radius: 5px;
+    box-shadow: 5px 8px 20px #999999;
+}
+a{
+    margin: 30px 0;
+    text-align: left;
+    font-size: 21px;
+    font-weight: bold;
+    color: #0037b3;
+    transition: 0.2s
+}
